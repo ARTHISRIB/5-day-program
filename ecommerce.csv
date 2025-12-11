@@ -1,0 +1,10 @@
+OrderID,OrderDate,CustomerID,CustomerName,ProductID,ProductName,Category,Quantity,UnitPrice,PaymentMode,Country
+1001,05-01-2024,C001,Arun Kumar,P101,Wireless Mouse,Electronics,2,599,Card,India
+1002,06-01-2024,C002,Divya Sharma,P102,Laptop Bag,Accessories,1,1299,UPI,India
+1003,06-01-2024,C003,Suresh R,P103,USB Cable,Electronics,3,199,Cash,India
+1004,07-01-2024,C004,Meera N,P104,Cotton T-Shirt,Fashion,2,499,Card,India
+1005,07-01-2024,C005,Divya Sharma,P105,Sneakers,Fashion,1,2199,UPI,India
+1006,08-01-2024,C006,Rahul K,P106,Smartwatch,Electronics,1,4999,Card,India
+1007,09-01-2024,C007,Anitha Rao,P107,Headphones,Electronics,1,999,UPI,India
+1008,10-01-2024,C008,Kishore R,P108,Formal Shirt,Fashion,2,799,Cash,India
+1009,11-01-2024,C009,Nisha B,P109,Backpack,Accessories,1,1499,UPI,India
